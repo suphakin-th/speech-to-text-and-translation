@@ -2,6 +2,8 @@
 
 This document provides an overview of the Audio2TextPy project, which offers speech recognition and translation capabilities in three different implementations. Each implementation serves different use cases and technical requirements.
 
+![image](./image.png)
+
 ## Project Structure
 
 ```
