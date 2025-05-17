@@ -6,7 +6,7 @@ This document provides an overview of the Audio2TextPy project, which offers spe
 
 ## Project Structure
 
-```
+```tree
 Audio2TextPy
  ┣ main_socket
  ┃ ┣ client.py
